@@ -1,13 +1,30 @@
-# MEDAC
-![medac](https://www.efisioterapia.net/sites/default/files/logos/logo_medac.png)
-Funde la mantequilla introduciéndola en el microondas durante 30 0 40 segundos.
+![MEDAC](https://cdn.domestika.org/c_fill,dpr_auto,t_base_params.format_jpg/v1539302945/job-covers/000/064/135/64135-original.png?1539302945)
 
-Pon en un vaso de batidora la leche, la mantequilla fundida y los huevos. Añade la harina, el azúcar y la sal. Tritura todos los ingredientes y pasa la mezcla por un colador para eliminar cualquier grumo que pueda tener.
+# Entorno de Desarrollo - Tema 8 y Tema 9 (Trabajo Grupal)
 
-Unta una sartén antiadherente con una cucharadita de mantequilla con la ayuda de un pincel o brocha. Pon a calentar la sartén a fuego medio.
+_En este proyecto de Git y GitHub se pretende aprender a manejar dichos programas para una orientación laboral de empresa._
 
-Vierte un poco de masa y espárcela bien por toda la sartén. Cuando empiece a cuajarse, dale la vuelta y cocina brevemente por el otro lado. Repite la operación hasta terminar toda la masa.
+##1. El propietario del proyecto deberá realizar lo siguiente:
+###1.1 Instalar Git en su ordenador
+###1.2 Crear un repositorio con Git asociado a un nuevo proyecto Java
+###1.3 Crear un repositorio en su cuenta de GitHub
+###1.4 Sincronizar el repositorio local con el repositorio en GitHub
+###1.5 Configurar correctamente el archivo .gitignore
+###1.6 Configurar el archivo README.md
+###1.7 Crear un proyecto en GitHub vinculado con el anterior repositorio
 
-Para preparar la salsa, pon el chocolate troceado y la leche en un cazo. Fúndelo a fuego suave sin dejar de remover.
+##2. El resto de participantes deberá realizar lo siguiente:
+###2.1 Adherirse, como colaboradores, con sus cuentas de GitHub
+###2.2 Actualizar los repositorios locales con contenido del proyecto
 
-**Sirve los crepes y acompáñalos con la salsa de chocolate.**
+##3. Una vez realizado todo lo anterior
+###3.1 Añadir al menos 5 estados al proyecto
+###3.2 Crear más de 10 tareas
+###3.3 Asignar cada tarea a los diferentes componentes del equipo
+###3.4 Establece un mínimo de 3 tipos de etiquetas y aplícalas
+###3.5 Visualizado de Tareas
+###3.6 Cada colaborador deberá realizar algunas de las tareas asignadas
+###3.7 Cada colaborador deberá realizar al menos, 2 commits
+###3.8 Uno de los commits de alguna de sus tareas deberá cerrarla automáticamente
+###3.9 El proyecto deberá estar vinculado con Gitter
+###3.10 Citar Nombre del Proyecto en Giiter
