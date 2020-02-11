@@ -17,7 +17,7 @@ _En este proyecto de Git y GitHub se pretende aprender a manejar dichos programa
 ### 2.1 Adherirse, como colaboradores, con sus cuentas de GitHub
 ### 2.2 Actualizar los repositorios locales con contenido del proyecto
 
-## 3. Una vez realizado todo lo anterior
+## 3. Una vez realizado todo lo anterior:
 ### 3.1 Añadir al menos 5 estados al proyecto
 ### 3.2 Crear más de 10 tareas
 ### 3.3 Asignar cada tarea a los diferentes componentes del equipo
