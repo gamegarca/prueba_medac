@@ -12,12 +12,18 @@ _En este proyecto de Git y GitHub se pretende aprender a manejar dichos programa
 ### 1.5 Configurar correctamente el archivo .gitignore
 ### 1.6 Configurar el archivo README.md
 ### 1.7 Crear un proyecto en GitHub vinculado con el anterior repositorio
+
+
 * * *
+
 
 ## 2. El resto de participantes deberá realizar lo siguiente:
 ### 2.1 Adherirse, como colaboradores, con sus cuentas de GitHub
 ### 2.2 Actualizar los repositorios locales con contenido del proyecto
+
+
 * * *
+
 
 ## 3. Una vez realizado todo lo anterior:
 ### 3.1 Añadir al menos 5 estados al proyecto
@@ -30,4 +36,6 @@ _En este proyecto de Git y GitHub se pretende aprender a manejar dichos programa
 ### 3.8 Uno de los commits de alguna de sus tareas deberá cerrarla automáticamente
 ### 3.9 El proyecto deberá estar vinculado con Gitter
 ### 3.10 Citar Nombre del Proyecto en Giiter
+
+
 * * *
